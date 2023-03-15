@@ -9,7 +9,7 @@
 ## 내가 수강한 과목<br>
 
 [발표ppt](/presentation.pptx)<br>
-[googlelink]: https://google.com "Go google"<br>
+[홈페이지](https://naver.com, "google link")
 
 ### 발표 동영상
 <iframe width="894" height="503" src="https://www.youtube.com/embed/d-3cEQ1d1E4" title="[작업용 BGM] 상쾌한 기분으로 한가로이 하고 싶은 당신에게 | 서양 음악 Playlist - Songs to relieve stress - Morning Routine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><br>
