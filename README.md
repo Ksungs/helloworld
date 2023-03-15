@@ -8,7 +8,7 @@
 
 ## 내가 수강한 과목
 
-[발표](presentation.pptx)
+[발표](/presentation.pptx)
 
 
 ### 발표 동영상
