@@ -83,7 +83,7 @@ while n<11:
     n+=1
 print("while밖의 sum:",sum)'''
 
-while True:
+'''while True:
     word = input("단어입력")
     if word =="exit":
         print("exit --> break")
@@ -95,4 +95,12 @@ while True:
         print("continue뒤의 문장")
     else:
         for i in range(3):
-            print(word)
+            print(word)'''
+
+#import random
+#print(random.randint(0,10))
+
+from random import randint
+from random2 import randint
+
+print(randint(0,100000))
