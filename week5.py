@@ -100,7 +100,17 @@ print("while밖의 sum:",sum)'''
 #import random
 #print(random.randint(0,10))
 
-from random import randint
+'''from random import randint
 from random2 import randint
 
-print(randint(0,100000))
+print(randint(0,100000))'''
+
+n=0
+while n<4:
+    h=int(input("키가 몇이니?"))
+    if h>=150:
+        n+=1
+        print("네 타세요")
+    else:
+        print("타지 마세요")
+print("출발합니다")
